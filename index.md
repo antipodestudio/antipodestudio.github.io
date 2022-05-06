@@ -4,7 +4,9 @@ You can use the [editor on GitHub](https://github.com/antipodestudio/antipodestu
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
+Lets try a [thing](intent://arvr.google.com/scene-viewer/1.0?file=https://antipodestudio.github.io/vero_3d_pakke_hollow.glb&mode=ar_only#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;)
 ### Markdown
+<a href="intent://arvr.google.com/scene-viewer/1.0?file=https://antipodestudio.github.io/vero_3d_pakke_hollow.glb&mode=ar_only#Intent;scheme=https;package=com.google.android.googlequicksearchbox;action=android.intent.action.VIEW;S.browser_fallback_url=https://developers.google.com/ar;end;">Vero in 3d</a>
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
