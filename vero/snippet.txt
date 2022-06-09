@@ -1,4 +1,4 @@
-<model-viewer bounds="tight" enable-pan src="vero_3d_pakke_hollow3-keycaps.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1" camera-orbit="-89.79deg 49.66deg auto">
+<model-viewer bounds="tight" enable-pan src="vero_3d_pakke_hollow3-keycaps.glb" ar ar-modes="webxr scene-viewer quick-look" camera-controls environment-image="neutral" poster="poster.webp" shadow-intensity="1">
     <div class="progress-bar hide" slot="progress-bar">
         <div class="update-bar"></div>
     </div>
